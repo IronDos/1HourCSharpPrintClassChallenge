@@ -1,0 +1,16 @@
+E:\CSharp\TipaltiAsafAharon\TipaltiAsafAharon\bin\Debug\net5.0\TipaltiAsafAharon.exe
+E:\CSharp\TipaltiAsafAharon\TipaltiAsafAharon\bin\Debug\net5.0\TipaltiAsafAharon.deps.json
+E:\CSharp\TipaltiAsafAharon\TipaltiAsafAharon\bin\Debug\net5.0\TipaltiAsafAharon.runtimeconfig.json
+E:\CSharp\TipaltiAsafAharon\TipaltiAsafAharon\bin\Debug\net5.0\TipaltiAsafAharon.runtimeconfig.dev.json
+E:\CSharp\TipaltiAsafAharon\TipaltiAsafAharon\bin\Debug\net5.0\TipaltiAsafAharon.dll
+E:\CSharp\TipaltiAsafAharon\TipaltiAsafAharon\bin\Debug\net5.0\ref\TipaltiAsafAharon.dll
+E:\CSharp\TipaltiAsafAharon\TipaltiAsafAharon\bin\Debug\net5.0\TipaltiAsafAharon.pdb
+E:\CSharp\TipaltiAsafAharon\TipaltiAsafAharon\obj\Debug\net5.0\TipaltiAsafAharon.csprojAssemblyReference.cache
+E:\CSharp\TipaltiAsafAharon\TipaltiAsafAharon\obj\Debug\net5.0\TipaltiAsafAharon.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\TipaltiAsafAharon\TipaltiAsafAharon\obj\Debug\net5.0\TipaltiAsafAharon.AssemblyInfoInputs.cache
+E:\CSharp\TipaltiAsafAharon\TipaltiAsafAharon\obj\Debug\net5.0\TipaltiAsafAharon.AssemblyInfo.cs
+E:\CSharp\TipaltiAsafAharon\TipaltiAsafAharon\obj\Debug\net5.0\TipaltiAsafAharon.csproj.CoreCompileInputs.cache
+E:\CSharp\TipaltiAsafAharon\TipaltiAsafAharon\obj\Debug\net5.0\TipaltiAsafAharon.dll
+E:\CSharp\TipaltiAsafAharon\TipaltiAsafAharon\obj\Debug\net5.0\ref\TipaltiAsafAharon.dll
+E:\CSharp\TipaltiAsafAharon\TipaltiAsafAharon\obj\Debug\net5.0\TipaltiAsafAharon.pdb
+E:\CSharp\TipaltiAsafAharon\TipaltiAsafAharon\obj\Debug\net5.0\TipaltiAsafAharon.genruntimeconfig.cache
